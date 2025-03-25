@@ -11,7 +11,7 @@ Este é um projeto React que permite aos usuários buscar livros utilizando a AP
 
 ## 📦 Instalação e Uso
 1. Clone o repositório
-git clone https://github.com/Luumano/buscador-de-livros.git
+git clone https://github.com/Luumano/buscar-livros.git
 ````bsh
 cd buscar-livros
 ````

@@ -30,7 +30,7 @@ npm start
 * 1. Digite o nome do livro ou termo de pesquisa no campo de entrada.
 * 2. Clique no botão "Pesquisar".
 * O aplicativo enviará uma requisição GET para a API https://hn.algolia.com/api/v1/search?query=X.
-Os resultados serão exibidos em uma lista contendo:
+* Os resultados serão exibidos em uma lista contendo:
 * Título do livro
 * Autor do livro
 * Link para mais detalhes

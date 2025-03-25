@@ -37,13 +37,13 @@ Os resultados serão exibidos em uma lista contendo:
 
 ## 📂 Estrutura do Projeto
 
-📂 buscar-livros
-├── 📂 src
-│   ├── 📜 App.js  # Componente principal
-│   ├── 📜 App.css # Estilos globais
-│   ├── 📜 index.js # Ponto de entrada do React
-├── 📜 package.json # Configuração do projeto
-├── 📜 README.md  # Documentação do projeto
+### 📂 buscar-livros
+* ├── 📂 src
+* │   ├── 📜 App.js  # Componente principal
+* │   ├── 📜 App.css # Estilos globais
+* │   ├── 📜 index.js # Ponto de entrada do React
+* ├── 📜 package.json # Configuração do projeto
+* ├── 📜 README.md  # Documentação do projeto
 
 ## 🔧 Melhorias Futuras
 
